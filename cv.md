@@ -1,12 +1,12 @@
-#***ANASTASIYA VORONOVA***
-****************************************
-#**Contact information:**
+# ***ANASTASIYA VORONOVA***
+* * * * 
+# **Contact information:**
 Phone: +375 29 2174433
 E-mail: buchneva.anastasya92@gmail.com
 Telegram: @nastabu
 [LinkedIn](http://linkedin.com/in/настя-бучнева-335b94242)
 ****************************************
-#**About me:**
+# **About me:**
 
 Self-organized with a high sense of responsibility customs declarant with 6
 years of experience and multitasking meticulous head of logistics with about 1 year
@@ -17,15 +17,16 @@ customs clearance , including certification, contracts, logistics, warehousing,
 legislation.
 * As a head of logistics I was in charge of arranging successfully functioning
 Free Customs Zone and warehouse operations for the electric bus assembly.
-#**Skills**
+# **Skills**
  * OOP Basics
  * C# Basics
  * Git,GitHub
  * VS
  * Unity 2D Basics
 
-#**Code examples**
-``` #region Unity methods
+# **Code examples**
+``` 
+    #region Unity methods
 
     /// <summary>
     /// Start is called before the first frame update
@@ -67,11 +68,11 @@ Free Customs Zone and warehouse operations for the electric bus assembly.
         transform.position = move;
     }
 
-    #endregion 
-    ```
+    #endregion ```
 
-#**Courses**
-* 
+# **Courses**
+
+ 
 
 
 
