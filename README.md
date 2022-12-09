@@ -1,1 +1,1 @@
-# rsschool-cv
+ https://voronovanasta.github.io/rsschool-cv/cv
