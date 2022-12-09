@@ -1,12 +1,16 @@
-# ***ANASTASIYA VORONOVA***
-* * * * 
-# **Contact information:**
-## Phone: +375 29 2174433
-## E-mail: buchneva.anastasya92@gmail.com
-## Telegram: @nastabu
-## [LinkedIn](http://linkedin.com/in/настя-бучнева-335b94242)
-* * * *
-# **About me:**
+# ***Anastasiya Voronova***
+
+## **Contact information:**
+
+**Phone**: +375 29 2174433
+
+**E-mail**: buchneva.anastasya92@gmail.com
+
+**Telegram**: @nastabu
+
+[LinkedIn](http://linkedin.com/in/настя-бучнева-335b94242)
+
+## **About me:**
 
 Self-organized with a high sense of responsibility customs declarant with 6
 years of experience and multitasking meticulous head of logistics with about 1 year
@@ -17,14 +21,15 @@ customs clearance , including certification, contracts, logistics, warehousing,
 legislation.
 * As a head of logistics I was in charge of arranging successfully functioning
 Free Customs Zone and warehouse operations for the electric bus assembly.
-# **Skills**
+## **Skills**
+
  * OOP Basics
  * C# Basics
  * Git,GitHub
  * VS
  * Unity 2D Basics
 
-# **Code examples**
+## **Code examples**
 ``` 
     #region Unity methods
 
@@ -42,9 +47,6 @@ Free Customs Zone and warehouse operations for the electric bus assembly.
         directionTimer = gameObject.AddComponent<Timer>();
         directionTimer.Duration = TimerDuration;
         DirectionTimer.Run();
-
-
-
     }
 
     /// <summary>
@@ -60,8 +62,6 @@ Free Customs Zone and warehouse operations for the electric bus assembly.
         }
 
         // move game object
-       
-
         Vector3 move = transform.position;
         move+= new Vector3(directionMultiplier*MoveAmountPerSecond*Time.deltaTime, 0, 0);
 
@@ -71,15 +71,16 @@ Free Customs Zone and warehouse operations for the electric bus assembly.
     #endregion 
 ```
 
-# **Courses**
+## **Courses**
 
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * JavaScript Manual on learnjavascript.ru (in progress)
 * .NET Development EPAM (self-study)
 * Specialization C# Programming for Unity Game Development (in progress, 3 of 4 courses completed)
+
 ![Certificate](/assets/Certificate.png)
 
-# **Languages**
+## **Languages**
 
 * English - B2
 * German - B2
