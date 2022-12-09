@@ -68,9 +68,21 @@ Free Customs Zone and warehouse operations for the electric bus assembly.
         transform.position = move;
     }
 
-    #endregion ```
+    #endregion 
+```
 
 # **Courses**
+
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* JavaScript Manual on learnjavascript.ru (in progress)
+* .NET Development EPAM (self-study)
+* Specialization C# Programming for Unity Game Development (in progress, 3 of 4 courses completed)
+![Certificate](/assets/Certificate.png)
+
+# **Languages**
+
+* English - B2
+* German - B2
 
  
 
