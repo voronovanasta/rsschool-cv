@@ -1,11 +1,11 @@
 # ***ANASTASIYA VORONOVA***
 * * * * 
 # **Contact information:**
-Phone: +375 29 2174433
-E-mail: buchneva.anastasya92@gmail.com
-Telegram: @nastabu
-[LinkedIn](http://linkedin.com/in/настя-бучнева-335b94242)
-****************************************
+## Phone: +375 29 2174433
+## E-mail: buchneva.anastasya92@gmail.com
+## Telegram: @nastabu
+## [LinkedIn](http://linkedin.com/in/настя-бучнева-335b94242)
+* * * *
 # **About me:**
 
 Self-organized with a high sense of responsibility customs declarant with 6
