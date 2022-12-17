@@ -9,6 +9,12 @@
     font-weight: 300;
   }
 
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+}
+
 body {
     margin:0;
     padding: 0;
@@ -96,8 +102,15 @@ html {
     color: brown;
 }
 
-@media (max-width: 768px) {
-    .section {
-      width: 100%;
-    }
+footer {
+    background-color: #6DAB27;
+}
+
+.logo {
+    float:right;
+}
+
+#education,
+#languages {
+    border-bottom: none;
 }
