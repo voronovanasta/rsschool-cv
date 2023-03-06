@@ -8,6 +8,8 @@
 
 **Telegram**: @nastabu
 
+[GitHub](https://github.com/voronovanasta)
+
 [LinkedIn](http://linkedin.com/in/настя-бучнева-335b94242)
 
 ## **About me:**
@@ -31,54 +33,36 @@ Free Customs Zone and warehouse operations for the electric bus assembly.
 
 ## **Code examples**
 ``` 
-    #region Unity methods
-
-    /// <summary>
-    /// Start is called before the first frame update
-    /// </summary>	
-    public void Start()
-    {
-       
-        // set position of game object for autograder
-        transform.position = new Vector3(-2.5f, 0, 0);
-
-        // add and run the timer
-
-        directionTimer = gameObject.AddComponent<Timer>();
-        directionTimer.Duration = TimerDuration;
-        DirectionTimer.Run();
-    }
-
-    /// <summary>
-	/// Update is called once per frame
-	/// </summary>	
-    public void Update()
-    {
-        // change direction as appropriate
-        if (directionTimer.Finished)
-        {
-            directionMultiplier *= -1;
-            directionTimer.Run();
-        }
-
-        // move game object
-        Vector3 move = transform.position;
-        move+= new Vector3(directionMultiplier*MoveAmountPerSecond*Time.deltaTime, 0, 0);
-
-        transform.position = move;
-    }
-
-    #endregion 
+    function dataReverse(data) {
+  // Your code here
+  let length = data.length/8;
+  let arr = [];
+  let i = 0;
+  let start = 0;
+  let end = 8;
+  while(i!=length){ 
+    arr.push(data.slice(start, end))
+    i++;
+    start +=8;
+    end += 8;
+   }
+  return arr.reverse().flat()
+}
 ```
 
 ## **Courses**
 
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0»(742.2 points) 
 * JavaScript Manual on learnjavascript.ru (in progress)
 * .NET Development EPAM (self-study)
-* Specialization C# Programming for Unity Game Development (in progress, 3 of 4 courses completed)
+* Specialization C# Programming for Unity Game Development
 
-![Certificate](/assets/Certificate.png)
+![Certificate](/assets/img/Certificate.png)
+
+## **Projects**
+
+* [Project Plants](https://voronovanasta.github.io/Stage-0-RSSchool/plants/) 
+
 
 ## **Languages**
 
