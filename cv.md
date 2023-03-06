@@ -8,7 +8,7 @@
 
 **Telegram**: @nastabu
 
-**GitHub**: [GitHub](https://github.com/voronovanasta)
+[GitHub](https://github.com/voronovanasta)
 
 [LinkedIn](http://linkedin.com/in/настя-бучнева-335b94242)
 
